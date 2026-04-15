@@ -5,10 +5,10 @@ Demonstrating a Merge Conflict and resolution
 # Team Information
 
 ## Team Name
-The Metzy Repo
+The Metziest Repo
 
 ## Team Motto
-Making a Metz, one Pull Request at a time.
+Making a Metz, one merge at a time.
 
 ## Team Members
 - MetzinAround (Pj's Staff Account)
