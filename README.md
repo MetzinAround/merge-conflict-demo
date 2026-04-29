@@ -4,11 +4,12 @@ Demonstrating a Merge Conflict and resolution
 # Team Information
 
 ## Team Name
-The Metz Repo
+The Metziest dinner
 
 ## Team Motto
-Making a Metz, one Pull Request at a time.
+Making a Metz, one problem at a time.
 
 ## Team Members
 - MetzinAround (Main account)
 - BestStewDent (Student Account)
+- BestTeeChur (Teacher Account)
