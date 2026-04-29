@@ -11,4 +11,6 @@ Making a Metz, one Merge Conflict at a time.
 
 ## Team Members
 - MetzinAround (Main account)
-- BestTeeChur (Teacher account)
+- BestStewDent (Student Account)
+- BestTeeChur (Teacher Account)
+
