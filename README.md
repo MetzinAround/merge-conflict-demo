@@ -2,15 +2,13 @@
 Demonstrating a Merge Conflict and resolution
 ---
 # Team Information
-
 ## Team Name
 The Metziest Repo
 
 ## Team Motto
-Making a Metz, One Pull Request at a time
+Making a Metz, One Merge Conflict at a time
 
 ## Team Members
-- MetzinAround 
-- BestStewDent 
-- BestTeeChur 
-
+- MetzinAround (Main)
+- BestStewDent (Student)
+- BestTeeChur (Teacher)
