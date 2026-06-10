@@ -4,13 +4,13 @@ Demonstrating a Merge Conflict and resolution
 # Team Information
 
 ## Team Name
-The First Repo
+The Most Metzy Repo
 
 ## Team Motto
-Making a Metz, One day at a time
+Making a Metz, One Merge Conflict at a time
 
 ## Team Members
-- MetzinAround (Main account)
-- BestStewDent (Student Account)
-- BestTeeChur (Teacher Account)
+- MetzinAround (Main)
+- BestStewDent (Student)
+- BestTeeChur (Teacher)
 
